@@ -6,11 +6,11 @@
 
 This project was completed as part of the **IIT Guwahati Consulting Summer Project** by:
 
-* **Sujal Burnwal**
-  GitHub: https://github.com/sujal-ece28
-
 * **Abhishek Shekhawat**
   GitHub: https://github.com/abhishekshekhawat131
+  
+* **Sujal Burnwal**
+  GitHub: https://github.com/sujal-ece28
 
 ---
 
